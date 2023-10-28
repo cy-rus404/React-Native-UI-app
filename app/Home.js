@@ -12,7 +12,7 @@ function Home(props,onPress) {
                 <Text style={styles.txt3}>Come, enjoy and lets have fun at our all new KrustyBurger Theme park. All ages are invited</Text>
 
                 <TouchableOpacity onPress={console.log("Press")} style={styles.appButtonContainer}>
-                    <Text style={styles.appButtonText}>Click Me</Text>
+                    <Text style={styles.appButtonText}>Login</Text>
                 </TouchableOpacity>
             </SafeAreaView>
 
